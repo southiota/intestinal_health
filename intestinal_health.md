@@ -98,11 +98,7 @@
 * 오메가6 지방 함량이 많은 기름: 해바라기씨유, 옥수수유, 콩기름, 면실유, 땅콩유, 카놀라유
 * 오메가6 지방 함량이 적은 기름: 올리브유, 라드, 버너, 코코넛오일
 
-<br>
-
-![image](https://github.com/southiota/intestinal_health/assets/76077650/9456514f-f20b-4c0c-bed8-008398e677af)
-
-<br>
+<br> ![image](https://github.com/southiota/intestinal_health/assets/76077650/9456514f-f20b-4c0c-bed8-008398e677af) <br>
 
 * 활성산소 증가로 인한 산화 스트레스는 알츠하이머 치매. 루이소체 치매 루게릭병. 헌팅턴병 등의 신경퇴행성 질환에서 크게 증가되어 있음
   * 관련 논문:
@@ -128,6 +124,57 @@
 * 오메가6 기름, 트랜스지방, 밀가루, 설탕 섭취를 가능한 많이 줄이자
 ```
 
+
+## LDL 콜레스테롤 1편
+참고자료: https://www.youtube.com/watch?v=D6wB66e9i84&t=485s
+* 총 콜레스테롤(TC) = HDL + LDL + 잔여 콜레스테롤(VLDL, IDL)
+* it 잔여 콜레스테롤 추정치 ≒ 중성지방(TG) : 5
+* TC ≒ HDL + LDL + TG/5
+  * HDL-c [고밀도 지단백 콜레스테롤] 
+  * LDL-c [저밀도 지단백 콜레스테롤] 
+  * IDL-c [중간밀도 지단백 콜레스테롤] 
+  * VLDL-c [초저밀도 지단백 콜레스테롤]
+ 
+* LDL 콜레스테롤 높을수록 좋다는 연구 결과가 있음 (2023, 한국)
+  * LDL 수치로는 심혈관질환 발생을 예측할 수 없음
+    * [심근경색] 좌측 그래프에서 LDL이 55나 140이나 위험도는 차이가 없음
+    * 우측 그래프는 심혈관 질환이 높은 그룹이지만 낮은 그룹과 차이가 없음
+
+
+<br> ![image](https://github.com/southiota/intestinal_health/assets/76077650/1e917a9c-6f96-4151-a3d5-aed9743c739e) <br>
+
+    * [뇌경색] LDL 수치가 낮을수록 더 위험함을 보임
+    
+<br> ![image](https://github.com/southiota/intestinal_health/assets/76077650/5e03a4a4-311e-4e25-b69b-df470377b481) <br>
+
+* 고혈압, 뇌졸중, 관상동맥질환 모두에서 콜레스테롤 수치가 낮을수록 위험도가 높음 (2015)
+  * 칼슘이 심장발작 예측 신뢰도가 아주 높다는 연구 내용이 있음
+  * LDL로는 혈관질환을 예측할 수 없음 (2009)
+  * 급성으로 입원한 사람들 중에서는 70~110이 가장 많음
+
+<br> ![image](https://github.com/southiota/intestinal_health/assets/76077650/e6f9873e-d597-4c9b-ab4e-d54753d7e7f4) <br>
+<br> ![image](https://github.com/southiota/intestinal_health/assets/76077650/d9a32c82-dd00-46e4-ae17-72174f1a6e33) <br>
+
+* 중성지방/HDL(TG/HDL) 비율이 중증 관상동맥질환을 잘 예측한다는 연구가 있음
+  * HDL 콜레스테롤이 증가할수록 증가, LDL은 예측성이 없음
+
+<br> ![image](https://github.com/southiota/intestinal_health/assets/76077650/305035a8-7544-4800-9aae-305d773323aa) <br>
+<br> ![image](https://github.com/southiota/intestinal_health/assets/76077650/e0be5be7-5ccc-407f-818d-ac521ffc5eec) <br>
+<br> ![image](https://github.com/southiota/intestinal_health/assets/76077650/2abd887f-dcf6-452b-a423-560f26d7f3a4) <br>
+
+* 의사들이 LDL을 주장하는 이유
+  * 포화지방 증가 -> LDL 증가하기 때문
+* 그러나 포화지방은 HDL 증가, 총 콜레스테롤 감소, 중성지방 감소시킴
+
+* 중성지방, TG/HDL, TC/HDL, 인슐린, 호모시스테인, 관상동맥 칼슘이 높은수록 심혈관 질환 발병률이 높아짐
+* HDL 수치는 높을수록 좋음
+
+<br> ![image](https://github.com/southiota/intestinal_health/assets/76077650/bd65fa70-dde6-488e-b0c7-49002a7552b9) <br>
+
+```
+* 중성지방, TG/HDL, TC/HDL, 인슐린, 호모시스테인, 관상동맥 칼슘을 낮추고
+* HDL 수치를 높여야함
+```
 
 
 <!-- 정리 안된 내용
