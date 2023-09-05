@@ -1,4 +1,4 @@
-![image](https://github.com/southiota/intestinal_health/assets/76077650/e90548d2-c53f-4161-b82d-9aa2df09acb4)<!-- 목차 생성 방법
+<!-- 목차 생성 방법
           [1번째](#1-headers-first)  
           [2번째](#2-headers-두번째)  
           
